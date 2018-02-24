@@ -1,0 +1,8 @@
+[
+	{"nombre":"jamon","codigo":"12A", "descripcion":"curado"}, 
+	{"nombre":"judias","codigo":"13H", "descripcion":"blancas"},
+	{"nombre":"peras","codigo":"54G", "descripcion":"blanquilla"}, 
+	{"nombre":"uvas","codigo":"15B", "descripcion":"moscatel"},
+	{"nombre":"cereales","codigo":"36D", "descripcion":"trigo, cebada"}, 
+	{"nombre":"lechugas","codigo":"47E", "descripcion":"iceberg"}
+]
